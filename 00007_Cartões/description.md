@@ -4,9 +4,9 @@ Para uma conferência importante, os organizadores nos pediram que escrevessemos
 
 Para isso, temos que reunir o nome, sobrenome e título (_Dr._, _Dra._, _Lic._, etc) e montar um único string.
 
-> Escreva a função `escreverCartoes`, que pegue um título, um nome e um sobrenome e forme um único string. Por exemplo:
+> Escreva a função `escreverCartao`, que pegue um título, um nome e um sobrenome e forme um único string. Por exemplo:
 
 > ``` javascript
-> ム escreverCartoes("Dra.", "María", "Da Silva")
+> ム escreverCartao("Dra.", "María", "Da Silva")
 > "Dra. María Da Silva"
 > ```
