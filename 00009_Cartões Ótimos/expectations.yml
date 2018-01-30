@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:escreverCartaoOptimo
+- binding: "*"
+  inspection: DeclaresFunction:escreverCartaoOptimo

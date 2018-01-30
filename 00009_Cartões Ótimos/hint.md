@@ -1,0 +1,1 @@
+Lembre-se de que você conta com a função `longitude`.
