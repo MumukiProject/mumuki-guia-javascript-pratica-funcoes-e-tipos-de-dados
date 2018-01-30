@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:perimetroQuadrado
+- binding: "*"
+  inspection: DeclaresFunction:areaQuadrado
