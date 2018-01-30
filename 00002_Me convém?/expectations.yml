@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:meConvem
+- binding: "*"
+  inspection: Not:DeclaresFunction:quantoCusta
+- binding: meConvem
+  inspection: Not:UsesIf
