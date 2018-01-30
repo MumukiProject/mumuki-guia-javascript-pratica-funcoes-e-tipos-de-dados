@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:perimetroTriangulo
+- binding: "*"
+  inspection: DeclaresFunction:areaTriangulo
