@@ -1,0 +1,10 @@
+it("estaPerto(443)", () => { assert(estaPerto(443)) })
+it("estaPerto(442)", () => { assert(estaPerto(442)) })
+it("estaPerto(441)", () => { assert(estaPerto(441)) })
+it("estaPerto(439)", () => { assert(estaPerto(439)) })
+it("estaPerto(438)", () => { assert(estaPerto(438)) })
+it("estaPerto(437)", () => { assert(estaPerto(437)) })
+
+it("NÃO estaPerto(440)", () => { assert(!estaPerto(440)) })
+it("NÃO estaPerto(420)", () => { assert(!estaPerto(420)) })
+it("NÃO estaPerto(460)", () => { assert(!estaPerto(460)) })
