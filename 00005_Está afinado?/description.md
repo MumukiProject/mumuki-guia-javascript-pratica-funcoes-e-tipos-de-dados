@@ -2,7 +2,7 @@ Quando pressionamos uma tecla de um piano,  este produz um som que tem uma certa
 
 <img width="200px" src="https://raw.githubusercontent.com/mumuki/mumuki-guia-javascript-practica-funciones-y-tipos-de-datos/master/assets/piano.jpg"></img>
 
-> Desenvolva uma função `estaAfinado` que receba a freqüência (um número) do _La_ central e diga se essa frequência é igual a 440Hz.
+> Desenvolva uma função `estaAfinado` que receba a frequência (um número) do _La_ central e diga se essa frequência é igual a 440Hz.
 
 > ```javascript
 > ム estaAfinado(440)
